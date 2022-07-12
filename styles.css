@@ -1,0 +1,93 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: rgb(246, 252, 255);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: cornflowerblue;
+}
+
+li {
+  padding-bottom: 10px;
+}
+
+li {
+  color: indianred;
+}
+
+a:link {
+  color: indianred;
+}
+
+a:visited {
+  color: rgb(128, 64, 43);
+}
+
+a:hover {
+  color: crimson;
+}
+
+#image-area a:link {
+  background-color: white;
+}
+
+#image-area a:visited {
+  background-color: white;
+}
+
+#image-area a:hover {
+  background-color: white;
+
+}
+
+.hangul {
+  font-family: 'Yeon Sung', cursive;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+#image-area,
+#description {
+  padding-top: 15px;
+  border-top: 2px solid cornflowerblue;
+  border-bottom: 2px solid cornflowerblue;
+}
+
+.recipe-pic-source {
+  font-size: 10px;
+  font-style: italic;
+}
+
+#description {
+  border-bottom: 2px solid cornflowerblue;
+  padding-bottom: 15px;
+}
+
+#description>p,
+#description {
+  background-color: rgb(253, 244, 244);
+}
+
+#description>p {
+  padding-left: 10px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#image-area,
+#image-area>* {
+  background-color: white;
+}
+
+#description {
+  margin-top: 5px;
+}
+
+img {
+  width: 320px;
+  height: auto;
+}
